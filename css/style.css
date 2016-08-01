@@ -1,0 +1,770 @@
+@media only screen and (min-width : 1280px) and (max-width : 1600px) {
+   /* Styles for 3 */
+
+.sve{
+  width: 75%;
+  left: 50%;
+  position:fixed;
+}
+
+#naslov{
+  font-size:  122px;
+  position: relative;
+}
+
+.container{
+  float:  right;
+  width:  780px;
+}
+
+.navbar{
+  /* width:  1022px; */
+  width: 80%;
+  float:  left;
+  top:  1px;
+  right: 10px;
+  margin:  -1px 0px 0px 0px;
+  padding-left:  0px;
+  position: fixed;
+  z-index: 14;
+  margin-right: 9px;
+}
+
+.table{
+  width: 95%;
+}
+
+.tabelarow:hover{
+  background-color:  #F0F8FF !important;
+}
+
+.sajtlink a:hover{
+  background-color: #E8E8E8!important; 
+  color:  blue !important;
+}  
+
+.sajtlink1{
+  background-color: #E8E8E8; 
+}
+
+.vjunavigacija{
+  background-color:  #F0F8FF !important;
+  color:  blue !important;
+}
+
+.vjunavigacija a{
+  color:  blue !important;
+}
+
+.plavaslova{
+  color:  blue !important;
+}
+
+.linktabela{
+  float:  left;
+  width:  222px;
+  margin:  -1px 0px 0px 10px;
+  padding:  0px 0px 5px 0px;
+  left:  8px;
+}
+
+.link{
+  margin:  5px 0px 0px 0px;
+  width:  150px;
+  padding-left:  55px;
+  font-size:  12px;
+}
+
+.link a:hover{
+  font-size: 18px;
+  color:  blue !important;
+}
+
+li{
+  padding: 10px 45px 10px;
+  font-size:  19px;
+}
+
+#forma{
+  margin-top:  225px;
+  margin-left:  244px;
+}
+
+#forma1{
+  margin-top:  225px;
+  margin-left:  17px;
+}
+
+.hovertabele{
+  background-color:  #F0F8FF !important;
+  width: 95%;
+}
+
+.hovertabele1{
+  background-color:  #F0F8FF !important;
+  height: 45px;
+}
+
+.form-horizontal{
+  margin-left:  -77px;
+}
+
+#samoime{
+  text-shadow:  1px 1px 1px rgba(128, 170, 183, .9);
+}
+
+.btn{
+   margin-left:  159px; 
+}
+
+label{
+  font-size: 19px !important;
+}
+
+.porukazaunos{
+  top:  7730px !important;
+  margin-left:  67px;
+}
+
+.uspesnounet{
+  margin-left:  62px;
+}
+
+.vecunet{
+  margin-left:  62px;
+}
+
+
+.text-danger1{
+  color:  red;
+}
+
+.prepavke{
+  text-decoration: none !important;
+}
+
+#mediaspace1{
+  height:  20px;
+  margin-left:  262px;
+  margin-top:  30px;
+}
+
+#imefilma{
+  margin-left:  262px;
+  margin-top:  270px;
+}
+
+#output{
+  margin-left:  262px;
+}
+
+.skriven{
+  display: none;
+}
+
+.tabelarowjq{
+  width:  950px;
+  border-bottom: 1.5px solid #E8E8E8;
+}
+
+.logo{
+  width:  150px;
+  float:  right;
+  margin-top: -30px !important;
+ 
+}
+
+
+.listafilmova{
+  width:  950px;
+}
+
+#linkprepavka{
+  text-decoration: none;
+}
+
+.prepravka{
+  background-color:  lightblue;
+  border-bottom-right-radius: 10px;
+  border-bottom-left-radius: 10px;
+}
+
+.formazaprepravku{
+  margin-left:  25%;
+}
+
+.orandz{
+  background-color:  #FFCC66;
+  border-radius: 10px;
+  width:  700px;
+  margin-left: 12%;
+  box-shadow:  3px 3px 3px #333333;
+}
+
+#obrisifilmbutton{
+  margin-left:  5px;
+}
+
+.senka{
+  box-shadow:  5px 5px 5px rgba(128, 170, 183, .9);
+}
+
+.senka2{
+  box-shadow:  3px 3px 3px #333333;
+}
+
+.imdbdata{
+  height:  320px;
+  background-color: #FFD700;
+  border-bottom-right-radius: 10px;
+  border-bottom-left-radius: 10px;
+}
+
+#nemaimdb{
+  position: relative;
+  float: center;
+  margin-left: 25%;
+  text-shadow:  1px 1px 1px #333333;
+}
+
+.poster{
+  float: left;
+  margin-left:  15px !important;
+  width:  200px;
+  margin-top: -47px; 
+}
+
+.mozila img{
+  margin-top: -7px;
+}
+
+.poster img{
+  border-radius: 10px;
+}
+
+.imdbcancel{
+  float: right;
+  margin-right: 15px;
+}
+
+#rating{
+  float: right;
+  margin-right: 15px;
+  margin-left:  150px;
+  text-shadow:  1px 1px 1px #333333;
+}
+
+#radnja{
+  float:  right;
+  margin-right: 15px;
+  width: 680px;
+  background-color: #FAFAD2;
+  border-radius: 10px;
+}
+
+#radnja h5{
+  padding: 15px;
+}
+
+#linkkafilmu {
+  float:  right;
+  /* margin-top:  150px; */
+  margin-right: 15px;
+}
+
+#linkkafilmu a{
+  color:  #333 !important;
+}
+
+#paginacijadiv{
+  margin-left:  262px;
+}
+
+#sortorder{
+  float:  right;
+  margin-top: -15px;
+  margin-right: 5px;
+}
+
+#sortnaslov{
+  position: relative;
+  width: 75px;
+  float: right;
+  bottom: 10px;
+}
+
+.modal-overlay {
+	position: fixed;
+	top: 0;
+	left: 0;
+	bottom: 0;
+	width: 100%;
+	height: 100%;
+	background-color: rgba(0,0,0,.5);
+	z-index: 15;
+}
+
+/* .modal-window {
+	position: fixed;
+	top: 140px;
+	left: 50%; 
+	width: 700px;
+	position: center;
+	height: auto;
+	margin-left: 25%; 
+	padding: 20px;
+	border: 2px solid #000;
+	background-color: #FFF;
+	-moz-border-radius: 6px;
+	-webkit-border-radius: 6px;
+	border-radius: 6px;
+	-moz-box-shadow: 0 0 14px #123;
+	-webkit-box-shadow: 0 0 14px #123;
+	box-shadow: 0 0 14px #123;
+	z-index: 16;
+} */
+
+#mediaspace1{
+  position: fixed;
+  top: 40%;
+  left: 25%;
+  margin-top: -50px;
+  margin-left: -50px;
+  /* width: 100px;
+  height: 100px; */
+  /* border: 2px solid #000; */
+  z-index: 16;
+}
+#plejer{
+  top: 40%;
+  background: #2a2a2a;
+  box-sizing: border-box;
+  border-radius: 5px;
+  -moz-box-sizing: border-box;
+  float: left;
+  font-family: Arial, sans-serif;
+  position: absolute;
+  padding: 0;
+  bottom: 20px;
+  opacity: 1;
+  box-shadow: 0 0 10px rgba(0,0,0,0.3);
+  -webkit-transition: opacity 0.3s ease-in;
+  transition: opacity 0.3s ease-in;
+  -moz-user-select: none;
+  -webkit-user-select: none;
+  user-select: none;
+}
+
+#plejer1{
+  top: 40%;
+  background: #2a2a2a;
+  box-sizing: border-box;
+  border-radius: 5px;
+  -moz-box-sizing: border-box;
+  float: left;
+  position: absolute;
+  padding: 0;
+  bottom: 20px;
+  opacity: 1;
+  box-shadow: 0 0 10px rgba(0,0,0,0.3);
+  -webkit-transition: opacity 0.3s ease-in;
+  transition: opacity 0.3s ease-in;
+  -moz-user-select: none;
+  -webkit-user-select: none;
+}
+
+.zatvori{
+  border: 0;
+  position: absolute;
+  top: 10px;
+  right: 10px;
+}
+
+
+}
+
+/*
+Za Ubuntu laptop
+*/
+
+@media only screen and (min-width : 900px) and (max-width : 1279px) {
+
+   
+
+
+.sve{
+  width: 75%;
+  left: 50%;
+  position:fixed;
+}
+
+#naslov{
+  font-size:  92px;
+  position: relative;
+  margin-top: 22px;
+  margin-bottom: 33px;
+}
+
+.container{
+  float:  right;
+  width:  780px;
+}
+
+.navbar{
+  
+  width: 100%;
+  float:  left;
+  top:  1px;
+  right: 10px;
+  margin:  -1px 0px 0px 0px;
+  padding-left:  0px;
+  position: fixed;
+  z-index: 14;
+  margin-right: 1px;
+}
+
+.table{
+  width: 95%;
+}
+
+
+.tabelarow:hover{
+  background-color:  #F0F8FF !important;
+}
+
+.sajtlink a:hover{
+  background-color: #E8E8E8!important; 
+  color:  blue !important;
+}  
+
+.sajtlink1{
+  background-color: #E8E8E8; 
+}
+
+.vjunavigacija{
+  background-color:  #F0F8FF !important;
+  color:  blue !important;
+  padding-left: 7px;
+}
+
+.vjunavigacija a{
+  color:  blue !important;
+}
+
+.plavaslova{
+  color:  blue !important;
+}
+
+.linktabela{
+  float:  left;
+  width:  222px;
+  margin:  -1px 0px 0px 10px;
+  padding:  0px 0px 5px 0px;
+  left:  8px;
+}
+
+.link{
+  margin:  5px 0px 0px 0px;
+  width:  150px;
+  padding-left:  55px;
+  font-size:  12px;
+}
+
+.link a:hover{
+  font-size: 18px;
+  color:  blue !important;
+}
+
+li{
+  padding: 10px 45px 10px;
+  font-size:  19px;
+}
+
+#forma{
+  margin-top:  225px;
+  margin-left:  244px;
+}
+
+#forma1{
+  margin-top:  233px;
+  margin-left:  17px;
+}
+
+.hovertabele{
+  background-color:  #F0F8FF !important;
+  width: 90%;
+}
+
+.hovertabele1{
+  background-color:  #F0F8FF !important;
+  height: 45px;
+}
+
+.form-horizontal{
+  margin-left:  -77px;
+}
+
+#samoime{
+  text-shadow:  1px 1px 1px rgba(128, 170, 183, .9);
+}
+
+.btn{
+   margin-left:  159px; 
+}
+
+label{
+  font-size: 19px !important;
+}
+
+.porukazaunos{
+  top:  7730px !important;
+  margin-left:  67px;
+}
+
+.uspesnounet{
+  margin-left:  62px;
+}
+
+.vecunet{
+  margin-left:  62px;
+}
+
+
+.text-danger1{
+  color:  red;
+}
+
+.prepavke{
+  text-decoration: none !important;
+}
+
+#mediaspace1{
+  height:  20px;
+  margin-left:  262px;
+  margin-top:  30px;
+}
+
+#imefilma{
+  margin-left:  262px;
+  margin-top:  270px;
+}
+
+#output{
+  margin-left:  262px;
+}
+
+.skriven{
+  display: none;
+}
+
+.tabelarowjq{
+  width:  950px;
+  border-bottom: 1.5px solid #E8E8E8;
+}
+
+.logo{
+  width:  150px;
+  float:  right;
+  margin-top: -30px !important;
+ 
+}
+
+
+.listafilmova{
+   width:  944px;
+}
+
+#linkprepavka{
+  text-decoration: none;
+}
+
+.prepravka{
+  background-color:  lightblue;
+  border-bottom-right-radius: 10px;
+  border-bottom-left-radius: 10px;
+}
+
+.formazaprepravku{
+  margin-left:  25%;
+}
+
+.orandz{
+  background-color:  #FFCC66;
+  border-radius: 10px;
+  width:  700px;
+  margin-left: 12%;
+  box-shadow:  3px 3px 3px #333333;
+}
+
+#obrisifilmbutton{
+  margin-left:  5px;
+}
+
+.senka{
+  box-shadow:  5px 5px 5px rgba(128, 170, 183, .9);
+}
+
+.senka2{
+  box-shadow:  3px 3px 3px #333333;
+}
+
+.imdbdata{
+  height:  320px;
+  background-color: #FFD700;
+  border-bottom-right-radius: 10px;
+  border-bottom-left-radius: 10px;
+}
+
+#nemaimdb{
+  position: relative;
+  float: center;
+  margin-left: 25%;
+  text-shadow:  1px 1px 1px #333333;
+}
+
+.poster{
+  float: left;
+  margin-left:  15px !important;
+  width:  200px;
+  margin-top: -47px; 
+}
+
+.mozila img{
+  margin-top: -7px;
+}
+
+.poster img{
+  border-radius: 10px;
+}
+
+.imdbcancel{
+  float: right;
+  margin-right: 15px;
+}
+
+#rating{
+  float: right;
+  margin-right: 15px;
+  margin-left:  150px;
+  text-shadow:  1px 1px 1px #333333;
+}
+
+#radnja{
+  float:  right;
+  margin-right: 15px;
+  width: 680px;
+  background-color: #FAFAD2;
+  border-radius: 10px;
+}
+
+#radnja h5{
+  padding: 15px;
+}
+
+#linkkafilmu {
+  float:  right;
+  margin-right: 15px;
+}
+
+#linkkafilmu a{
+  color:  #333 !important;
+}
+
+#paginacijadiv{
+  margin-left:  262px;
+}
+
+#sortorder{
+  float:  right;
+  margin-top: -15px;
+  margin-right: 5px;
+}
+
+#sortnaslov{
+  position: relative;
+  width: 75px;
+  float: right;
+  bottom: 5px;
+}
+
+.modal-overlay {
+	position: fixed;
+	top: 0;
+	left: 0;
+	bottom: 0;
+	width: 100%;
+	height: 100%;
+	background-color: rgba(0,0,0,.5);
+	z-index: 15;
+}
+
+
+#mediaspace1{
+  position: fixed;
+  top: 40%;
+  left: 25%;
+  margin-top: -50px;
+  margin-left: -50px;
+
+  z-index: 16;
+}
+#plejer{
+  top: 40%;
+  background: #2a2a2a;
+  box-sizing: border-box;
+  border-radius: 5px;
+  -moz-box-sizing: border-box;
+  float: left;
+  font-family: Arial, sans-serif;
+  position: absolute;
+  padding: 0;
+  bottom: 20px;
+  opacity: 1;
+  box-shadow: 0 0 10px rgba(0,0,0,0.3);
+  -webkit-transition: opacity 0.3s ease-in;
+  transition: opacity 0.3s ease-in;
+  -moz-user-select: none;
+  -webkit-user-select: none;
+  user-select: none;
+}
+
+#plejer1{
+  top: 40%;
+  background: #2a2a2a;
+  box-sizing: border-box;
+  border-radius: 5px;
+  -moz-box-sizing: border-box;
+  float: left;
+  position: absolute;
+  padding: 0;
+  bottom: 20px;
+  opacity: 1;
+  box-shadow: 0 0 10px rgba(0,0,0,0.3);
+  -webkit-transition: opacity 0.3s ease-in;
+  transition: opacity 0.3s ease-in;
+  -moz-user-select: none;
+  -webkit-user-select: none;
+}
+
+.zatvori{
+  border: 0;
+  position: absolute;
+  top: 10px;
+  right: 10px;
+}
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
